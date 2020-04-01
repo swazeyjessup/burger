@@ -1,1 +1,1 @@
-[Lets to Heroku](http://young-crag-81512.herokuapp.com/index)
+[Link to Heroku](http://young-crag-81512.herokuapp.com/index)
